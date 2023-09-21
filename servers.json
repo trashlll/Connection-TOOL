@@ -1,0 +1,206 @@
+[
+  {
+    "list": [
+      {
+        "name": "Phoenix",
+        "ip": "185.169.134.3",
+        "port": "7777"
+      },
+      {
+        "name": "Tucson",
+        "ip": "185.169.134.4",
+        "port": "7777"
+      },
+      {
+        "name": "Scottdale",
+        "ip": "185.169.134.43",
+        "port": "7777"
+      },
+      {
+        "name": "Chandler",
+        "ip": "185.169.134.44",
+        "port": "7777"
+      },
+      {
+        "name": "Brainburg",
+        "ip": "185.169.134.45",
+        "port": "7777"
+      },
+      {
+        "name": "Saint Rose",
+        "ip": "185.169.134.5",
+        "port": "7777"
+      },
+      {
+        "name": "Mesa",
+        "ip": "185.169.134.59",
+        "port": "7777"
+      },
+      {
+        "name": "Red-Rock",
+        "ip": "185.169.134.61",
+        "port": "7777"
+      },
+      {
+        "name": "Yuma",
+        "ip": "185.169.134.107",
+        "port": "7777"
+      },
+      {
+        "name": "Surprise",
+        "ip": "185.169.134.109",
+        "port": "7777"
+      },
+      {
+        "name": "Prescott",
+        "ip": "185.169.134.166",
+        "port": "7777"
+      }
+    ],
+    "projectname": "Arizona Role Play",
+    "title": "Arizona RP"
+  },
+  {
+    "list": [
+      {
+        "name": "Red",
+        "ip": "54.37.142.72",
+        "port": "7777"
+      },
+      {
+        "name": "Green",
+        "ip": "54.37.142.73",
+        "port": "7777"
+      },
+      {
+        "name": "Blue",
+        "ip": "54.37.142.74",
+        "port": "7777"
+      },
+      {
+        "name": "Lime",
+        "ip": "54.37.142.75",
+        "port": "7777"
+      },
+      {
+        "name": "Blue",
+        "ip": "51.83.153.240",
+        "port": "7777"
+      }	  
+    ],
+    "projectname": "Advance Role Play",
+    "title": "Advance RP"
+  },
+  {
+    "list": [
+      {
+        "name": "Emerald",
+        "ip": "emerald.diamondrp.ru",
+        "port": "7777"
+      },
+      {
+        "name": "Trilliant",
+        "ip": "trilliant.diamondrp.ru",
+        "port": "7777"
+      },
+      {
+        "name": "Ruby",
+        "ip": "ruby.diamondrp.ru",
+        "port": "7777"
+      }
+    ],
+    "projectname": "Diamond Role Play",
+    "title": "Diamond RP"
+  },
+  {
+    "list": [
+      {
+        "name": "Saint-Louis",
+        "ip": "185.169.134.67",
+        "port": "7777"
+      },
+      {
+        "name": "Cleveland",
+        "ip": "185.169.134.91",
+        "port": "7777"
+      }
+    ],
+    "projectname": "Evolve Role Play",
+    "title": "Evolve RP"
+  },
+  {
+    "list": [
+      {
+        "name": "Legacy",
+        "ip": "legacy.samp-rp.ru",
+        "port": "7777"
+      },
+      {
+        "name": "Revolution",
+        "ip": "revo.samp-rp.ru",
+        "port": "7777"
+      },
+      {
+        "name": "Underground",
+        "ip": "underground.samp-rp.ru",
+        "port": "7777"
+      }
+
+    ],
+    "projectname": "Samp Role Play",
+    "title": "Samp RP"
+  },
+  {
+    "list": [
+      {
+        "name": "One",
+        "ip": "176.32.37.37",
+        "port": "7777"
+      },
+      {
+        "name": "Two",
+        "ip": "176.32.39.185",
+        "port": "7777"
+      },
+      {
+        "name": "Three",
+        "ip": "176.32.36.229",
+        "port": "7777"
+      }
+    ],
+    "projectname": "Monser DeathMatch",
+    "title": "Monser DM"
+  },
+  {
+    "list": [
+      {
+        "name": "RPG",
+        "ip": "185.169.134.83",
+        "port": "7777"
+      },
+      {
+        "name": "RP1",
+        "ip": "185.169.134.84",
+        "port": "7777"
+      },
+      {
+        "name": "RP2",
+        "ip": "185.169.134.85",
+        "port": "7777"
+      }
+    ],
+    "projectname": "Trinity GTA",
+    "title": "Trinity GTA"
+  },
+  {
+    "list": [
+      {
+        "name": "First",
+        "ip": "213.32.112.224",
+        "port": "7777"
+      }
+    ],
+    "projectname": "Revent Role Play",
+    "title": "Revent RP"
+  }
+]
